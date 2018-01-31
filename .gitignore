@@ -8,3 +8,4 @@ out/
 # information for Eclipse / Flash Builder.
 *.idea
 *.iml
+changelog.md
